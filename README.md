@@ -1,2 +1,2 @@
-# Kalman-and-Particle-filter-based-state-estimation-for-nonlinear-system
+# Kalman_and-Particle-filter-based-state-estimation-for-nonlinear-system
 Application of two kinds of state estimators for a nonlinear mechanical system. The system is a two-dimensional crane (trolley) with a double pendulum (hook and a payload). The estimator only has access three sensors position of cart and the angle of two pendulums. Remaining states are estimated using linear Kalman filter and Particle filter. 
